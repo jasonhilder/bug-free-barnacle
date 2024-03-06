@@ -11,3 +11,9 @@ Run the container
 ```
 docker run -p 8080:80 php-env
 ```
+
+## Todo
+
+* mkcert for a local domain
+* apache rewrite rules
+* htaccess file
